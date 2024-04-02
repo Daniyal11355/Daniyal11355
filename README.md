@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyal11355" alt="daniyal11355" /></a> </p>
 
-- 🌱 I’m currently learning **Angular.js**
-
-- 💬 Ask me about **Java, Springboot, SQL, Python**
+- 💬 Ask me about **Java, C#, Springboot, .Net, SQL, Python, MVC*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
